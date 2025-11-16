@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.jaiminspace.gorouter.go_router_flutter",
+      "sha256_cert_fingerprints": [
+        "B894DEB3F277038D6B4B5E1305B51F6B9CA0157CD06E809002754DC2A587A158"
+      ]
+    }
+  }
+]
